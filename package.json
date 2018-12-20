@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
+  "name": "obensource",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "CLI business card of Ben Michel (@obensource)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "obensource": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/obensource/obensource.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Tierney Cyren, Ben Michel <benpmichel@gmail.com> (http://benmichel.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
