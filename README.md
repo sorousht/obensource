@@ -1,9 +1,5 @@
-It's me, Tierney!
+## What is this?
+My friend [Tierney Cyren](https://twitter.com/bitandbang) came up with this rad concept of distributing business cards via npm. Here's mine! 😎
 
-# Usage
-Via npx:
-```
-npx bitandbang
-```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+## Grab my business card
+👉 Run: $`npx obensource` (you can use [npx](https://www.npmjs.com/package/npx) if you have npm installed)
