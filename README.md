@@ -1,5 +1,9 @@
 ## What is this?
-My friend [Tierney Cyren](https://twitter.com/bitandbang) came up with this rad concept of distributing business cards via npm. Here's mine! 😎
+My business card via CLI!
+
+Thanks to [@obensource](https://github.com/obensource/obensource) and [@bnb](https://github.com/bnb/bitandbang).
 
 ## Grab my business card
-👉 Run: $`npx obensource` (you can use [npx](https://www.npmjs.com/package/npx) if you have npm installed)
+👉 Run: $`npx sorousht` (you can use [npx](https://www.npmjs.com/package/npx) if you have npm installed)
+
+
