@@ -1,20 +1,20 @@
 {
-  "name": "obensource",
+  "name": "sorousht",
   "version": "1.1.0",
-  "description": "CLI business card of Ben Michel (@obensource)",
+  "description": "CLI business card of Soroush Torkzadeh (@sorousht)",
   "main": "index.js",
   "bin": {
-    "obensource": "./bin/card.js"
+    "sorousht": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/obensource/obensource.git"
+    "url": "https://github.com/sorousht/sorousht.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren, Ben Michel <benpmichel@gmail.com> (http://benmichel.com)",
+  "author": "Soroush Torkzadeh <sorousht.torkzadeh@gmail.com> (http://sorousht.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
